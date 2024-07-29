@@ -1,0 +1,1 @@
+C# Patika+ - Metot Uygulaması
